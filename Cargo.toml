@@ -33,5 +33,5 @@ categories = [
 maintenance = { status = "actively-developed" }
 
 [dependencies]
-bitflags = "2.6.0"
+bitflags = "^2.4.0"
 embedded-hal = "1.0.0"
